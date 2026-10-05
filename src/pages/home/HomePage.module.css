@@ -1,0 +1,17 @@
+.homePageContainer {
+    max-width: 640px;
+    margin-inline: auto;
+}
+
+.homePageContainer h1 {
+    color: #096dd9;
+}
+
+.submitButton {
+    height: 50px;
+    margin-top: 20px;
+}
+
+.searchForm {
+    margin-top: 50px;
+}
